@@ -13,3 +13,5 @@
 - [react-countup](https://npm.io/package/react-countup): tạo hoạt động nhảy số
 
 ### [API sử dụng](https://covid19.mathdro.id/api)
+
+### [Live Demo](https://tquann286-covid-tracker.netlify.app/)
