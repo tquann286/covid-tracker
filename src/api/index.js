@@ -15,6 +15,6 @@ export const fetchData = async () => {
 			lastUpdate,
 		}
 
-		return response
+		return modifiedData
 	} catch (error) {}
 }
