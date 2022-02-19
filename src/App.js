@@ -1,7 +1,7 @@
 import React from 'react'
 
 class App extends React.Component {
-  reder() {
+  render() {
     return (
       <div>
         <h1>App</h1>
@@ -9,3 +9,5 @@ class App extends React.Component {
     )
   }
 }
+
+export default App
